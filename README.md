@@ -1,7 +1,7 @@
 # Hackertyper
 *what is hackertyper??*
 
-[Hackertyper](hackertyper.net) is a website that simulates hacking process
+[Hackertyper](https://hackertyper.net) is a website that simulates hacking process
 
 **made purely in vanilla Javascript**
 
