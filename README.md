@@ -3,7 +3,7 @@
 
 [Hackertyper](hackertyper.net) is a website that simulates hacking process
 
-**made purely by vanilla Javascript**
+**made purely in vanilla Javascript**
 
 # Installation
 **Windows**
