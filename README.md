@@ -12,6 +12,7 @@ git clone https://github.com/OmarHosam/Hackertyper-JS
 cd Hackertyper-JS
 ```
 Then serve it
+
 ex using python: `python3 -m http.server`
 
 then run it with the browser of your choice
@@ -22,6 +23,7 @@ git clone https://github.com/OmarHosam/Hackertyper-JS
 cd login-in-cpp
 ```
 Then serve it
+
 ex using python: `python3 -m http.server`
 
 then run it with the browser of your choice
