@@ -1,0 +1,15 @@
+body { /*Making everything looks cool :)*/
+	background: black;
+	color: #00ff00;
+	font-family: Courier New;
+	font-weight: bold;
+}
+
+#cursor {
+	display: inline; /*If not, the cursor will be displayed down the text*/
+}
+
+#typer {
+	display: inline; /*Also if not, the cursor will be displayed down the text*/
+    white-space: pre-wrap; /*VERY IMPORTANT, it will make line-breaks when there is an enter in the code*/
+}
