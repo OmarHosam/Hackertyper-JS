@@ -13,6 +13,7 @@ cd Hackertyper-JS
 ```
 Then serve it
 ex using python: `python3 -m http.server`
+
 then run it with the browser of your choice
 
 **Linux**
@@ -22,6 +23,7 @@ cd login-in-cpp
 ```
 Then serve it
 ex using python: `python3 -m http.server`
+
 then run it with the browser of your choice
 
 **Mac os**
@@ -30,4 +32,5 @@ idk
 
 # Usage
 **Simple**
+
 Troll your friends by just slapping your keyboard and tell them your a hacker ;)
