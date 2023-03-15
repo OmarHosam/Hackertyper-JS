@@ -20,7 +20,7 @@ then run it with the browser of your choice
 **Linux**
 ```sh
 git clone https://github.com/OmarHosam/Hackertyper-JS
-cd login-in-cpp
+cd Hackertyper-JS
 ```
 Then serve it
 
